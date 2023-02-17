@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "zienab",
+      "age": 23,
+      "email": "zienab@iti.com"
+    },
+    {
+      "id": 2,
+      "name": "Hagar",
+      "age": 25,
+      "email": "Hagar@iti.com"
+    },
+    {
+      "id": 3,
+      "name": "Sara",
+      "age": 22,
+      "email": "sara@iti.com"
+    },
+    {
+      "id": 4,
+      "name": "Fatma",
+      "age": 53,
+      "email": "fatma@iti.com"
+    },
+    {
+      "id": 6,
+      "name": "papa",
+      "age": 58,
+      "email": "papa@iti.com"
+    },
+    {
+      "name": "ITI",
+      "age": "28",
+      "email": "ITI@gmail.com",
+      "id": 8
+    }
+  ]
+}
